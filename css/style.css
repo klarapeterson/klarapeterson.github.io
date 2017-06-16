@@ -1,0 +1,31 @@
+h1{
+	color:#549df7;
+    font-weight:bold;
+}
+
+body{
+	background: pink;
+}
+
+.navbar-inverse .navbar-brand{
+	background: black;
+	color: white;
+    font-family: 'Indie Flower', cursive;
+   }
+
+.navbar-inverse{
+	background: black;
+}
+
+
+.navbar-inverse .navbar-nav li a{
+	color:white;
+   font-family: 'Indie Flower', cursive;
+}
+.kaniner{
+	width: 400px;
+}
+#hjarta{
+	width: 200px;
+	margin: 110px;
+}   
